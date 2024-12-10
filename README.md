@@ -1,13 +1,12 @@
 # How to make pwa
 
-#### In this tutorial, we are going to discuss how to build a web application. Today, web applications play an important role in the web, because web applications can easily run on any hardware and software platform.
-#### stay with me
+#### In this tutorial, we are going to discuss how to build a web application. Today, web applications play an important role in the web, because web applications can easily run on any hardware and software platform. stay with me...
 
 ## 1. Choose two icons
 
 ### At first you must choose your app icon.
 
-### It's beter that you choose two icon in these sizes:
+### It's better that you choose two icon in these sizes:
 
 ### 144x144 and 512x512
 
