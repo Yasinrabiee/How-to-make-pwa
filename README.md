@@ -1,6 +1,7 @@
 # How to make pwa
 
-`With the advent of the web, applications gradually gave way to web apps...`
+#### In this tutorial, we are going to discuss how to build a web application. Today, web applications play an important role in the web, because web applications can easily run on any hardware and software platform.
+#### stay with me
 
 ## 1. Choose two icons
 
