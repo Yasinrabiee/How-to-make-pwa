@@ -1,6 +1,6 @@
 # How to make pwa
 
-`    With the advent of the web, applications gradually gave way to web apps...`
+`With the advent of the web, applications gradually gave way to web apps...`
 
 ## 1. Choose two icons
 
