@@ -50,7 +50,7 @@ self.addEventListener("fetch", function (event) {
 });
 ```
 
-## 3. Make manifest.js file
+## 3. Make manifest.json file
 
 ```json
 {
