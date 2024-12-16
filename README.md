@@ -124,4 +124,4 @@ if ("serviceWorker" in navigator) {
 ## Now, your web app is ready!
 
 <img src="./screenshot.png" width="500">
-Thank you for reading this article.
+Thank you for reading this article :)
